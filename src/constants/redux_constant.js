@@ -1,0 +1,4 @@
+export const GET_LIST_FAIL =  "GET_LIST_FAIL";
+export const GET_LIST_LOADING =  "GET_LIST_LOADING";
+export const GET_LIST_RELOAD =  "GET_LIST_RELOAD";
+export const GET_LIST_SUCCEED = "GET_LIST_SUCCEED";
